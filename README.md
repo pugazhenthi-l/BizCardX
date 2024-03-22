@@ -1,4 +1,4 @@
-# CardCrafter Pro: The Ultimate Business Card Management Suite
+# BizCardX's CardCrafter Pro: The Ultimate Business Card Management Suite
 
 CardCrafter Pro is a Streamlit-based web application designed to digitize, manage, and efficiently utilize business card information. With its user-friendly interface, CardCrafter Pro streamlines the process of capturing, editing, and exporting business card details, turning a pile of cards into a structured digital directory.
 
